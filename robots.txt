@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mueedmq.github.io/glassic-pages/sitemap-index.xml
